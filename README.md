@@ -3,7 +3,7 @@
 List of very simple Arduino projects
 
 ## Getting Started
-- arduino IDE or web version at [https://create.arduino.cc/editor/](https://create.arduino.cc/editor/)
+- Requires arduino IDE or web version at [https://create.arduino.cc/editor/](https://create.arduino.cc/editor/)
 - It is recommended to use the web version for simplicity
 
 ## Usage note
